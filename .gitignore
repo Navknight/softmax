@@ -7,3 +7,4 @@ lessons/
 .clangd
 softmax_ext.cu
 APPROACH.md
+bench.py
