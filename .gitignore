@@ -1,0 +1,10 @@
+__pycache__/
+*.nsys-rep
+*.ncu-rep
+*.sqlite
+timeline*
+lessons/
+.clangd
+softmax_ext.cu
+APPROACH.md
+README.md
